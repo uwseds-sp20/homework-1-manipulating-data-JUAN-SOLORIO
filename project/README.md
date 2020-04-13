@@ -11,6 +11,6 @@ Can find the [Fremont-Bridge-Analysis.ipynb](https://github.com/uwseds-sp20/home
 which contains the analysis jupiter notebook for the Fremont Bridge data.
 
 ### data
-Contains the [Fremont-Bridge](https://data.seattle.gov/Transportation/Fremont-Bridge-Hourly-Bicycle-Counts-by-Month-Octo/65db-xm6k) as a CSV file.
+Contains the data for Seattle's [Fremont-Bridge](https://data.seattle.gov/Transportation/Fremont-Bridge-Hourly-Bicycle-Counts-by-Month-Octo/65db-xm6k) bicycle crossings as a CSV file.
 
 
